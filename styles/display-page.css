@@ -1,0 +1,46 @@
+	main {
+		width: 800px;
+		height: 500px;
+		font-size: 0px;
+		margin-left: auto;
+		margin-right: auto;
+
+	}
+
+	.upper {
+		width: 50%;
+		height: 200px;
+		display: inline-block;
+		box-sizing: border-box;
+		border: 1px solid black;
+	}
+
+	.upper-one {
+
+		background-color: green;
+
+	}
+	.upper-two{
+
+		background-color: blue;
+
+	}
+	.lower {
+		width: 33.33%;
+		height: 300px;
+		display: inline-block;
+		box-sizing: border-box;
+		border: 1px solid black;
+	}
+	.lower-one{
+
+		background-color: gray;
+		box-sizing: border-box;
+		border: 1px solid black;
+	}
+	.lower-two {
+		background-color: black;
+	}
+	.lower-three{
+		background-color: orange;
+	}
